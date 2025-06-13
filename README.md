@@ -21,4 +21,7 @@ Program ini adalah sebuah permainan tebak-tebakan nama negara berbasis teks yang
   6. Jika benar, skor bertambah 1. Jika salah, jawaban yang benar ditampilkan.
   7. Player dapat memilih untuk bermain lagi atau mengakhiri permainan.
 
-Link Screenshoot Program dan Video Presentasi Program :
+Link Screenshoot Program :
+  ![Screenshot 2025-06-13 122929](https://github.com/user-attachments/assets/de4cf24f-5a93-45a2-b99c-2a4049ebc4ad)
+
+Link Presentasi YouTube :
