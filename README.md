@@ -16,4 +16,4 @@ Program ini adalah sebuah permainan tebak-tebakan nama negara berbasis teks yang
 
 Link Dokumentasi Projek (Deskripsi dan Hasil Screenshot) : https://drive.google.com/drive/u/0/folders/1M8C5ZvLglZquWlLK8icL045cnxj5ejeO
 
-Link Presentasi YouTube : 
+Link Presentasi YouTube : https://youtu.be/mzW_iqCyXIw
